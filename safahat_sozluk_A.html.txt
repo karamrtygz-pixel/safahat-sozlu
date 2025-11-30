@@ -1,0 +1,383 @@
+﻿<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Safahat Sözlük — Harf: A</title>
+<style>
+  body{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; max-width:1000px;margin:28px auto;color:#111;line-height:1.5;padding:0 16px}
+  header{display:flex;align-items:center;justify-content:space-between;gap:12px}
+  h1{font-size:1.4rem;margin:0}
+  nav{margin:12px 0}
+  a.letter{display:inline-block;padding:6px 10px;margin:3px;border-radius:6px;background:#f1f1f1;text-decoration:none;color:#000}
+  .entry{padding:10px;border-radius:6px;margin:8px 0;background:#fbfbfb;border:1px solid #eee}
+  .term{font-weight:700}
+  .definition{display:block;margin-top:6px;color:#222}
+  .slogan{margin-top:8px;font-style:italic;color:#0b5; background:#f7ffef;padding:8px;border-radius:6px;border:1px solid #e6f6df}
+  footer{margin-top:30px;font-size:0.9rem;color:#666;border-top:1px solid #eee;padding-top:12px}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Safahat Sözlük</h1>
+    <div style="color:#555;font-size:0.95rem">Bölüm: A</div>
+  </div>
+  <div style="text-align:right;font-size:0.9rem;color:#666">Proje: Dilimizin Zenginlikleri — 10 ARALIK MTAL</div>
+</header>
+
+<p>Bu sayfa, gönderdiğiniz dokümandan alınan <strong>A</strong> harfi sözlük girdilerini ve öğrencilerin A harfi için hazırladığı sloganları gösterir.</p>
+
+<nav id="letters">
+  <a class="letter" href="#A">A</a>
+  <a class="letter" href="#B">B</a>
+  <a class="letter" href="#C">C</a>
+  <a class="letter" href="#Ç">Ç</a>
+  <a class="letter" href="#D">D</a>
+  <a class="letter" href="#E">E</a>
+  <!-- diğer harfler sayfada yok; isteğe göre ekleriz -->
+</nav>
+
+<section id="A">
+  <h2>A — Terimler ve Tanımlar</h2>
+
+  <div class="entry">
+    <div class="term">Âbâ</div>
+    <div class="definition">1. Atalar, babalar, pederler. 2. Yünden yapılmış kaba kumaş; ekseriyetle yünden yapılmış, bol giyimli bir libas, elbise.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âbânî</div>
+    <div class="definition">İpekten, sarıya çalar bir renkte dallı nakışlarla işlenmiş bir tür beyaz kumaş.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Abes</div>
+    <div class="definition">Boş, anlamsız, gayesiz, saçma.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ab-ı rûy</div>
+    <div class="definition">Yüzsuyu, şeref, haysiyet, namus.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">A’dâd</div>
+    <div class="definition">Adetler, sayılar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Adale</div>
+    <div class="definition">Kas, kaslar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Adem</div>
+    <div class="definition">Yokluk, hiçlik, olmama, bulunmama.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Adû</div>
+    <div class="definition">Düşman.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Afâk</div>
+    <div class="definition">Ufuklar, dış alemler; taraflar, yönler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ağniyâ</div>
+    <div class="definition">Zenginler, ganiler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âğûş</div>
+    <div class="definition">Kucak, sığınılacak yer.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Agyâr</div>
+    <div class="definition">Başkaları, yabancılar, düşmanlar, rakipler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âhâd</div>
+    <div class="definition">Birler; birden dokuza kadar olan sayılar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ahcâr</div>
+    <div class="definition">Taşlar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ahenîn</div>
+    <div class="definition">Demirden, demir gibi; çok kuvvetli, pek sağlam.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Aheste</div>
+    <div class="definition">Yavaş, ağır, usul.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ahfâd</div>
+    <div class="definition">Torunlar, hafidler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ahiren</div>
+    <div class="definition">Sonradan; son olarak, geçenlerde, son zamanlarda.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ahlâf</div>
+    <div class="definition">Gelecek nesiller.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ahlât</div>
+    <div class="definition">Karıştırılmaya elverişli; çok karıştırılabilir; salgılar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ahrâr</div>
+    <div class="definition">Hür kişiler, özgürler; esir ve köle olmayanlar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ahyâ</div>
+    <div class="definition">Diriler, canlılar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Akabât</div>
+    <div class="definition">1. Korkunç durumlar, tehlikeli anlar. 2. Tehlikeli geçitler, sarp yollar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Akdâh</div>
+    <div class="definition">Kadehler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Akdes</div>
+    <div class="definition">En mukaddes, en mübarek, en kutsal.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âkil</div>
+    <div class="definition">Yiyen, yiyici.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Akîm</div>
+    <div class="definition">Neticesiz, beyhude, sonuçsuz; kısır, verimsiz.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Aksâ</div>
+    <div class="definition">En son, uzak, en uzak.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Aktâr</div>
+    <div class="definition">1. Her taraf, her yer, taraflar, yöreler. 2. Güzel kokular taciri, baharatçı. 3. Ecza, ilaç satan adam. 4. Çaplar, dairenin merkezinden geçen doğru hatlar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Akvâl</div>
+    <div class="definition">Sözler, kaviller, konuşmalar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Akvâm</div>
+    <div class="definition">Kavimler, ırklar, milletler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âlâm</div>
+    <div class="definition">Elemler, kederler, acılar, üzüntüler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Amâde</div>
+    <div class="definition">Hazır, hazırlanmış.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">A’mâk</div>
+    <div class="definition">Derinlikler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Amâl</div>
+    <div class="definition">Ameller, işler; emeller, arzular, istekler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Amel-mânde</div>
+    <div class="definition">İş göremez durumda olan.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âmennâ</div>
+    <div class="definition">İnandık, iman ettik.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Amîk</div>
+    <div class="definition">Derin.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Amûd</div>
+    <div class="definition">Sütun, direk.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">An-karib</div>
+    <div class="definition">Yakından, en kısa zamanda, çok zaman geçmeden.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ananât</div>
+    <div class="definition">Ananeler, gelenekler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Anâsır</div>
+    <div class="definition">Unsurlar, elementler, elemanlar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ârâ</div>
+    <div class="definition">1. Oylar, reyler, fikirler. 2. Süsleyen, bezeyen. 3. Mıntıka, bölge, komşuluk. 4. Avlu. 5. Çıplaklık.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Arâkiyye</div>
+    <div class="definition">Dervişlerin giydikleri yünden yapılmış bir çeşit külah; ter çeken başlık, terlik.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ârâm</div>
+    <div class="definition">1. Durma, dinlenme, sükûn, karar. 2. Rahat, huzur, istirahat.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Aramgâh</div>
+    <div class="definition">Dinlenme yeri, mezar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Arsenik</div>
+    <div class="definition">Bir tür element.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Arz</div>
+    <div class="definition">1. Toprak, yeryüzü, dünya, zemin. 2. Memleket, ülke. 3. Genişlik, en. 4. Sunma, arz etme.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âsâr</div>
+    <div class="definition">Eserler, izler, nişanlar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Asûd</div>
+    <div class="definition">Arslanlar, yiğitler.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âsüman</div>
+    <div class="definition">Gökyüzü, sema, felek, gök kubbe.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âşinâ</div>
+    <div class="definition">Bildik, tanıdık; bilen, tanıyan.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Aşiyân</div>
+    <div class="definition">Yuva, ev, mesken, ikametgâh, kuş yuvası.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Aşûb</div>
+    <div class="definition">Kargaşa, karıştırıcı, karıştıran.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ateh</div>
+    <div class="definition">Bunama, bunaklık.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âti</div>
+    <div class="definition">Gelecek, ilerideki; ayrıca inatçı, kalın kafalı, sert başlı.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Attâr</div>
+    <div class="definition">Baharatçı, aktar, güzel koku satan adam.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Avâlim</div>
+    <div class="definition">Alemler, dünyalar, cihanlar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Âyât</div>
+    <div class="definition">Ayetler; menziller, mekânlar.</div>
+  </div>
+
+  <div class="entry">
+    <div class="term">Ayyuk</div>
+    <div class="definition">1. Gökyüzünün pek yüksek yeri. 2. Samanyolunun daima sağ tarafında olan çok parlak ve uzak bir yıldız.</div>
+  </div>
+
+  <hr>
+
+  <h3>Öğrencilerimizin A harfi için yazdığı sloganlar</h3>
+
+  <div class="slogan">âbâ: “Giyiminle kimliğini göster, köklerine sahip çık!” (9G, MASAL TANEM BACAKSIZ)</div>
+  <div class="slogan">âbânî: “İşlenmiş değerler gibi, hayatını anlamla süsle.” (9G, SETAYESH FEIZI)</div>
+  <div class="slogan">abes: “Boş işlerle uğraşma, anlamlı olana yönel.” (9G, EFSUNNAZ YENİCİOĞLU)</div>
+  <div class="slogan">ab-ı rûy: “Namusun ve şerefin yol gösterici olsun.” (9G, MOHADESEH BAKHSHI)</div>
+  <div class="slogan">a’dâd: “Hayatındaki her adım sayılır, dikkat et!” (9G, TABASUM EMIRI)</div>
+  <div class="slogan">adale: “Gücünü kullan, emekle ilerle.” (9G, İLAYDA EROĞLU)</div>
+  <div class="slogan">adem: “Hiçlikten varoluşa, her anın kıymetini bil.” (9G, İLKNUR TOPCU)</div>
+  <div class="slogan">adû: “Düşmanını bil, fakat barışa öncelik ver.” (9 GARAFİK, İREM KARAGÜCÜK)</div>
+  <div class="slogan">afâk: “Ufuklara bak, sınırlarını aş!” (9G, MERVE NUR SOĞANCIOĞLU)</div>
+  <div class="slogan">ağniyâ: “Zenginlik yalnızca malda değil, gönülde de olur.” (9G, AYSUN YILDIZ)</div>
+  <div class="slogan">âğûş: “Sığınacak yerini sevgi ve dostlukla kur.” (9G, ZEYNEP YAĞMUR SEVER)</div>
+  <div class="slogan">agyâr: “Yabancılara saygı göster, ama kendi yolunu çiz.” (9G, ALEYNA ORAN)</div>
+  <div class="slogan">âhâd: “Her sayı bir hikâye anlatır, değerini bil.” (9G, SU EDA ÖKSÜZ)</div>
+  <div class="slogan">ahcâr: “Taşlar gibi sağlam dur, engellere diren.” (9G, SUDENAZ İPEK)</div>
+  <div class="slogan">ahenîn: “Güçlü ol, dimdik dur, yılma!” (9G, MAHSA RASULİ)</div>
+  <div class="slogan">aheste: “Hayatı aceleye getirme, adım adım ilerle.” (9G, ELİF BUĞÇE BİLİCİ)</div>
+  <div class="slogan">ahfâd: “Torunlarına güzel bir miras bırak.” (9G, SELMA ALTAY)</div>
+  <div class="slogan">arz: “Arz varsa yaşam var, zemin sağlamsa umut var.” (10D, MERVE KURT)</div>
+  <div class="slogan">asar: “Gittiğin yerde iz bırak, insan asarıyla vardır.” (10D, NİSANUR DENEMİŞ)</div>
+  <div class="slogan">asud: “Asud yürür, yollar kendiliğinden açılır.” (10D, ŞEYDANUR SOMAY)</div>
+  <div class="slogan">asuman: “Asuman gibi yüksel, sınırların ötesinde parla.” (10D, SILA KARADAĞ)</div>
+  <div class="slogan">aşiyan: “Yuvana kurul, huzuru bul.” (9H, EZGİNUR YILMAZ)</div>
+  <div class="slogan">ati: “Ati cesurların geleceğidir.” (9,
+H, HÜLYA ÜZGEN)</div>
+  <div class="slogan">avalim: “Avalim dar gelse de ben kendi evrenimi kurarım.” (10D, AYŞENUR YOLCU)</div>
+  <div class="slogan">azade: “İyi ki benim de vatanım var.” (9H, SANYA WALI)</div>
+
+</section>
+
+<footer>
+  <p>Hazırlayan: 10 ARALIK MTAL — Kaynak: SAFAHAT SÖZLÜK SLOGANLAR EKLENMİŞ.docx</p>
+  <p>Devamını ister misin? İstersen B harfini de aynı formatta hazırlayıp gönderirim — birer harf ilerleyerek tamamlarız. (Evet ben uğraşırım; sen yönet.)</p>
+</footer>
+
+</body>
+</html>
